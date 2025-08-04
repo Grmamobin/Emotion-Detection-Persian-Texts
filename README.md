@@ -33,7 +33,7 @@ So this project contains both DeepLearning & NLP techniques.
 * Loss: `Categorical Crossentropy`
 * Optimizer: `Adam`
 * EarlyStopping added for generalization.
-**Best accuracy** achieved: 53%
+* **Best accuracy** achieved: 53%
 
 <p align="center">
 <img src="img/Screenshot%202025-08-04%20at%2020.19.48.png" width="650"/>
