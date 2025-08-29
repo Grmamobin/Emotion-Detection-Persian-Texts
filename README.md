@@ -7,7 +7,7 @@ So this project contains both DeepLearning & NLP techniques.
 **P.S** : As you can see, there are two folders in my project. One of them is named `accuracy 60%`, which contains a different training dataset. However, this dataset has fewer emotion categories compared to the main dataset (`~50–53% accuracy`). I included it to test how a fixed model would perform when trained on a different dataset.
 
 <p align="center">
-<img src="img/Screenshot%202025-08-04%20at%2020.00.25.png" width="650"/>
+<img src="img/img1.png" width="650"/>
 </p>
 
 # Data
@@ -36,7 +36,7 @@ So this project contains both DeepLearning & NLP techniques.
 * **Best accuracy** achieved: 53%
 
 <p align="center">
-<img src="img/Screenshot%202025-08-04%20at%2020.19.48.png" width="650"/>
+<img src="img/img2.png" width="650"/>
 </p>
 
 
@@ -57,7 +57,7 @@ python app.py
 
 
 <p align="center">
-  <img src="img/Screenshot%202025-08-04%20at%2001.26.59.png" width="500" />
+  <img src="img/img3.png" width="500" />
 </p>
 
 
